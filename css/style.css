@@ -43,3 +43,35 @@ body {
 .infoopt-last {
     border-right: 0px;
 }
+
+.sec-header {
+    text-align: center;
+}
+
+.sec-p {
+    text-indent: 40px;
+    text-align: justify;
+}
+
+a {
+    color: #ebdbb2;
+    text-decoration: none;
+}
+
+.other-p {
+    color: #ebdbb2;
+    text-decoration: none;
+}
+
+#intro {
+    color: #fabd2f;
+    text-decoration: none;
+}
+
+.other-p:hover {
+    color: #fabd2f;
+}
+
+#intro:hover {
+    color: #ebdbb2;
+}
