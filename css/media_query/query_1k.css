@@ -1,0 +1,49 @@
+@media only screen and (max-width:1340px) {
+    body {
+        margin-left: 350px;
+        margin-right: 350px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+
+
+}
+
+@media only screen and (max-width:1240px) {
+    body {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:1140px) {
+    body {
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:1044px) {
+    body {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+}

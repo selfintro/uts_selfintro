@@ -1,0 +1,11 @@
+@media only screen and (max-width:844px) {
+    body {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+}

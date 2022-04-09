@@ -1,0 +1,138 @@
+@media only screen and (max-width:390px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 22px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    #pfp {
+        width: 100px;
+    }
+
+    .infoopt-items {
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 78px;
+    }
+}
+
+@media only screen and (max-width:370px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 22px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    #pfp {
+        width: 100px;
+    }
+
+    .infoopt-items {
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 76px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 21px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    #pfp {
+        width: 100px;
+    }
+
+    .infoopt-items {
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 73px;
+    }
+}
+
+@media only screen and (max-width:350px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 20px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    #pfp {
+        width: 100px;
+    }
+
+    .infoopt-items {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 81px;
+    }
+}
+
+@media only screen and (max-width:340px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 20px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    #pfp {
+        width: 100px;
+    }
+
+    .infoopt-items {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 78px;
+    }
+}
+
+@media only screen and (max-width:330px) {
+    body {
+        font-size: 0.9em;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #name {
+        font-size: 20px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    #pfp {
+        width: 90px;
+    }
+
+    .infoopt-items {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 76px;
+    }
+}

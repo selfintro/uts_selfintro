@@ -37,11 +37,6 @@ body {
   width: 100px;
   font-weight: bold;
   text-align: center;
-  border-right: 2px solid #ebdbb2;
-}
-
-.infoopt-last {
-    border-right: 0px;
 }
 
 .sec-header {

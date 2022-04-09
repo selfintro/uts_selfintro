@@ -1,0 +1,23 @@
+@media only screen and (max-width:744px) {
+    body {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    #name {
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:720px) {
+    body {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    #name {
+        margin-right: 50px;
+        margin-top: 30px;
+    }
+}
