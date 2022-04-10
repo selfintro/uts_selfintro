@@ -48,6 +48,13 @@ body {
     text-align: justify;
 }
 
+#greetgif {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 a {
     color: #ebdbb2;
     text-decoration: none;
