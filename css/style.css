@@ -28,15 +28,15 @@ body {
 }
 
 .infoopt-items {
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  width: 100px;
-  font-weight: bold;
-  text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .sec-header {
@@ -68,6 +68,16 @@ a {
 #intro {
     color: #fabd2f;
     text-decoration: none;
+}
+
+.img-c {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cont-ul {
+    padding-left: 25px;
 }
 
 .other-p:hover {
