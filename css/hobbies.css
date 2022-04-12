@@ -45,7 +45,6 @@ body {
 
 .sec-p {
     text-indent: 40px;
-    text-align: justify;
 }
 
 a {
@@ -87,4 +86,22 @@ a {
 
 .im-p {
     padding: 20px;
+}
+
+.im-300 {
+    width: 300px;
+}
+
+.im-200 {
+    width: 200px;
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.walking {
+    width: 300px;
 }

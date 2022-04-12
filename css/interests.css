@@ -45,7 +45,6 @@ body {
 
 .sec-p {
     text-indent: 40px;
-    text-align: justify;
 }
 
 a {
@@ -87,4 +86,16 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.im-300 {
+    width: 300px;
+}
+
+.im-100 {
+    width: 100px;
+}
+
+.im-160 {
+    width:160px;
 }
