@@ -105,3 +105,11 @@ figure {
 .walking {
     width: 300px;
 }
+
+.playlist {
+    padding-bottom: 5px;
+}
+
+figcaption {
+    font-size: 0.7em;
+}

@@ -42,6 +42,10 @@
         padding-right: 20px;
         width: 76px;
     }
+    
+    .playlist {
+        width: 250px
+    }
 }
 
 @media only screen and (max-width:360px) {
