@@ -70,3 +70,21 @@ a {
 #intro:hover {
     color: #ebdbb2;
 }
+
+.im-l {
+    padding-right: 10px;
+}
+
+.im-r {
+    padding-left: 10px;
+}
+
+.img-c {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.im-p {
+    padding: 20px;
+}
